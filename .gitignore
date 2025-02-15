@@ -1,0 +1,24 @@
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.tmp
+*.log
+
+/build/
+/bin/
+/obj/
+/out/
+
+# Visual Studio
+/x64/
+.vs/
+*.sln
+*.vcxproj*
+*.vcxproj.filters
+*.user
