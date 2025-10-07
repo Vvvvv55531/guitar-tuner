@@ -1,2 +1,2 @@
 # Guitar Tuner
-Simple guitar tuner in C++
+C++ Practice and Using the Fast Fourier Transform (FFT) for a Simple Guitar Tuner
